@@ -1,0 +1,9 @@
+*.pyc
+env
+*.sqlite3
+*.db
+local_settings.py
+.idea
+/static
+/media
+fabfile.py
