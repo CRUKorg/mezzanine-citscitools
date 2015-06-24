@@ -17,7 +17,7 @@
     <li class="{% if page.has_children_in_menu %}dropdown{% endif %}
                {% if page.is_current_or_ascendant %}active{% endif %}"
         id="{{ page.html_id }}">
-        <a href="{{ page.get_absolute_url }}"
+        <a href="{{ page.get_absolute_url }}" style="padding: 10px 15px;"
         {% if page.has_children_in_menu %}
         class="dropdown-toggle disabled" data-toggle="dropdown"
         {% endif %}>
