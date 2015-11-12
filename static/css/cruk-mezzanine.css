@@ -5,5 +5,22 @@
 .welcome-to-trailblazer .middle {
     width: 100%;
     font-family: Calibri;
+    text-align: center;
+}
+
+.welcome-to-trailblazer .middle h1 {
+    font-weight: 100;
+    margin-bottom: 5px;
+}
+
+.welcome-to-trailblazer .middle h2 {
+    font-weight: 100;
+    margin: 0 0 10px 0;
+}
+
+.welcome-email-form {
+    width: 400px;
+    margin: 0 auto;
+    text-align: left;
 }
 
