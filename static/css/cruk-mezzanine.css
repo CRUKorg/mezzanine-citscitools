@@ -3,9 +3,9 @@ html, body {
 }
 
 .welcome-to-trailblazer {
-    /*background-image: url('/community/static/media/uploads/.thumbnails/cruk_cs_hero_c_part.jpg/cruk_cs_hero_c_part-2196x1244.jpg');*/
-    /*background-position: -69% -75%;*/
-    /*background-repeat: no-repeat;*/
+    background-image: url('/community/static/media/uploads/.thumbnails/cruk_cs_hero_c_part.jpg/cruk_cs_hero_c_part-2196x1244.jpg');
+    background-position: 5% 380px;
+    background-repeat: no-repeat;
 }
 
 .welcome-to-trailblazer .page-title {
