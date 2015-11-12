@@ -1,5 +1,7 @@
 .welcome-to-trailblazer {
     background-image: url('/community/static/media/uploads/.thumbnails/cruk_cs_hero_c_part.jpg/cruk_cs_hero_c_part-2196x1244.jpg');
+    background-position: -69% -75%;
+    background-repeat: no-repeat;
 }
 
 .welcome-to-trailblazer .right {
@@ -7,9 +9,11 @@
 }
 
 .welcome-to-trailblazer .middle {
-    width: 100%;
+    width: 75%;
     font-family: Calibri;
     text-align: center;
+    margin: 0 auto;
+    float: none;
 }
 
 .welcome-to-trailblazer .middle h1 {
