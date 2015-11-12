@@ -3,9 +3,9 @@ html, body {
 }
 
 .welcome-to-trailblazer {
-    background-image: url('/community/static/media/uploads/.thumbnails/cruk_cs_hero_c_part.jpg/cruk_cs_hero_c_part-2196x1244.jpg');
-    background-position: -69% -75%;
-    background-repeat: no-repeat;
+    /*background-image: url('/community/static/media/uploads/.thumbnails/cruk_cs_hero_c_part.jpg/cruk_cs_hero_c_part-2196x1244.jpg');*/
+    /*background-position: -69% -75%;*/
+    /*background-repeat: no-repeat;*/
 }
 
 .welcome-to-trailblazer .page-title {
@@ -36,7 +36,7 @@ html, body {
 
 .welcome-to-trailblazer .middle h2 {
     font-weight: 100;
-    margin: 0 0 10px 0;
+    margin: 0 0 25px 0;
     color: #2e008b;
 }
 
