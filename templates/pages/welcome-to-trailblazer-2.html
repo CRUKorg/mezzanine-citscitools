@@ -31,6 +31,9 @@
 {% block extra_js %}
 {{ block.super }}
 <script>
-$(function() {$('.mezzanine-form :input:visible:enabled:first').focus();});
+$(function() {
+    $('.mezzanine-form :input:visible:enabled:first').focus();
+    $('body').addClass('welcome-to-trailblazer');
+});
 </script>
 {% endblock %}
