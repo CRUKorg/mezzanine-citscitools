@@ -1,3 +1,9 @@
-.welcome-to-trailblazer {
-    background-color: #ffd1ff;
+.welcome-to-trailblazer .right {
+    display: none;
 }
+
+.welcome-to-trailblazer .middle {
+    width: 100%;
+    font-family: Calibri;
+}
+
