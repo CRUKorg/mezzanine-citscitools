@@ -19,11 +19,25 @@
 .welcome-to-trailblazer .middle h1 {
     font-weight: 100;
     margin-bottom: 5px;
+    color: #2e008b;
 }
 
 .welcome-to-trailblazer .middle h2 {
     font-weight: 100;
     margin: 0 0 10px 0;
+    color: #2e008b;
+}
+
+.welcome-to-trailblazer .form-actions {
+    background-color: transparent;
+    padding: 0;
+}
+
+.welcome-form-btn {
+    background-color: #ec008c;
+    padding: 8px 16px;
+    font-size: 16px;
+    color: white;
 }
 
 .welcome-email-form {
