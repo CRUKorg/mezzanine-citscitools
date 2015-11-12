@@ -8,7 +8,7 @@
     display: none;
 }
 
-.welcome-to-trailblazer .breadcrumbs {
+.welcome-to-trailblazer .breadcrumb {
     display: none;
 }
 
@@ -62,8 +62,7 @@
 
 
 .welcome-email-form {
-    width: 400px;
+    width: 300px;
     margin: 0 auto;
-    text-align: left;
 }
 
