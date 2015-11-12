@@ -4,6 +4,14 @@
     background-repeat: no-repeat;
 }
 
+.welcome-to-trailblazer .page-title {
+    display: none;
+}
+
+.welcome-to-trailblazer .breadcrumbs {
+    display: none;
+}
+
 .welcome-to-trailblazer .right {
     display: none;
 }
@@ -38,7 +46,20 @@
     padding: 8px 16px;
     font-size: 16px;
     color: white;
+    border: none;
 }
+
+.welcome-to-trailblazer .form-actions {
+    border-top: none;
+    display: inline-block;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+.welcome-to-trailblazer .help-block {
+    display: none;
+}
+
 
 .welcome-email-form {
     width: 400px;
