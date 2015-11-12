@@ -1,3 +1,7 @@
+html, body {
+    height: 100%;
+}
+
 .welcome-to-trailblazer {
     background-image: url('/community/static/media/uploads/.thumbnails/cruk_cs_hero_c_part.jpg/cruk_cs_hero_c_part-2196x1244.jpg');
     background-position: -69% -75%;
@@ -47,6 +51,10 @@
     font-size: 16px;
     color: white;
     border: none;
+}
+
+.welcome-to-trailblazer .form-group {
+    margin-bottom: 10px;
 }
 
 .welcome-to-trailblazer .form-actions {
