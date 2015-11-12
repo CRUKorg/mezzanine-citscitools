@@ -15,9 +15,9 @@
 {{ page.description }}
 {% endmetablock %}{% endblock %}
 
-{% block title %}
+<h1 class="pageTitle">{% block title %}
 {% editable page.title %}{{ page.title }}{% endeditable %}
-{% endblock %}
+{% endblock %}</h1>
 
 {% load mezzanine_tags %}
 
